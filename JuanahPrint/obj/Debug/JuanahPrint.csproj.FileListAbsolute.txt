@@ -1,0 +1,9 @@
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\bin\Debug\JuanahPrint.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\bin\Debug\JuanahPrint.exe
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\bin\Debug\JuanahPrint.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\obj\Debug\JuanahPrint.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\obj\Debug\JuanahPrint.Form1.resources
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\obj\Debug\JuanahPrint.Properties.Resources.resources
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\obj\Debug\JuanahPrint.csproj.GenerateResource.Cache
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\obj\Debug\JuanahPrint.exe
+c:\users\jonas\documents\visual studio 2015\Projects\JuanahPrint\JuanahPrint\obj\Debug\JuanahPrint.pdb
